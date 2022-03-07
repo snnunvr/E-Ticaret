@@ -139,8 +139,8 @@ nav .browse .sub-dropdown .drop-item .sub-content {
   top: 10px;
   -webkit-transform: translateX(100%);
           transform: translateX(100%);
-  background: red;
-  width: 500px;
+  background: rgb(224, 221, 221);
+  width: 500px; 
   opacity: 0;
   height: 300px;
 }
